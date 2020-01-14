@@ -10,7 +10,6 @@ A markdown previewer build using React.
 **Snapshot**
 
 ![Markdown Previewer](./markdown_previewer.png)
-Format: ![Alt Text](url)
 
 
 
