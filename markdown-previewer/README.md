@@ -8,7 +8,7 @@ A markdown previewer build using React.
 * Run "npm start" to run the application
 
 **Snapshot**
-![Markdown Previwer](markdown_previewer.png)
+![Markdown Previewer](./markdown_previewer.png)
 
 
 
