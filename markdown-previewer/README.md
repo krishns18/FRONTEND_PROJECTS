@@ -1,6 +1,6 @@
 ### Markdown Previewer
 
-A markdown previewer build using React.
+A markdown previewer built using React.
 
 #### Installation Instructions
 * Clone the repository
