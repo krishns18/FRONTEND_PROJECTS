@@ -1,4 +1,5 @@
-### A repository containing the projects built using React.
+## Frontend Projects
+A repository containing the frontend projects built using React.
 
 #### 1. Markdown Previewer
 * A markdown previewer app built using React.
@@ -12,4 +13,4 @@
 * A bookshare app created using React.
 * App allows the user to share the books on their bookshelf and also search for books to add.
 
-##### To be updated....
+#### To be updated....
